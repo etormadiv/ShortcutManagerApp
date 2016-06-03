@@ -150,5 +150,15 @@ namespace ShortcutManagerApp
                 sw.Flush();
             }
         }
+
+        private void MainForm_Activated(object sender, EventArgs e)
+        {
+            Height = 235;
+        }
+
+        private void MainForm_Deactivate(object sender, EventArgs e)
+        {
+            Height = 0;
+        }
     }
 }
