@@ -1,0 +1,10 @@
+c:\users\sphere\documents\visual studio 2010\Projects\ShortcutManagerApp\ShortcutManagerApp\bin\Debug\ShortcutManagerApp.exe
+c:\users\sphere\documents\visual studio 2010\Projects\ShortcutManagerApp\ShortcutManagerApp\bin\Debug\ShortcutManagerApp.pdb
+c:\users\sphere\documents\visual studio 2010\Projects\ShortcutManagerApp\ShortcutManagerApp\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\sphere\documents\visual studio 2010\Projects\ShortcutManagerApp\ShortcutManagerApp\obj\x86\Debug\ShortcutManagerApp.Properties.Resources.resources
+c:\users\sphere\documents\visual studio 2010\Projects\ShortcutManagerApp\ShortcutManagerApp\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\sphere\documents\visual studio 2010\Projects\ShortcutManagerApp\ShortcutManagerApp\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\sphere\documents\visual studio 2010\Projects\ShortcutManagerApp\ShortcutManagerApp\obj\x86\Debug\ShortcutManagerApp.exe
+c:\users\sphere\documents\visual studio 2010\Projects\ShortcutManagerApp\ShortcutManagerApp\obj\x86\Debug\ShortcutManagerApp.pdb
+c:\users\sphere\documents\visual studio 2010\Projects\ShortcutManagerApp\ShortcutManagerApp\obj\x86\Debug\ShortcutManagerApp.MainForm.resources
+c:\users\sphere\documents\visual studio 2010\Projects\ShortcutManagerApp\ShortcutManagerApp\bin\Debug\ShortcutManagerApp.exe.config
